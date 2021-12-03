@@ -4,7 +4,9 @@
 
 ```python
 """
-Syntax: variableName = <value>
+Syntax: 
+
+    variableName = <value>
 
 Description: Variables are containers for storing data values.
 """
@@ -28,7 +30,9 @@ todayIsRaining = True
 
 ```python
 """
-Syntax: print(<insert something here>)
+Syntax: 
+
+    print(<insert something here>)
 
 Description: Print whatever is in the parentheses in the terminal.
 """
@@ -104,7 +108,9 @@ else:
 
 ```python
 """
-Syntax: variable = input(<insert prompt here>)
+Syntax: 
+
+    variable = input(<insert prompt here>)
 
 Description: Get input from the user in console and assign it to a variable
 """
