@@ -1,7 +1,5 @@
 # Terminal:
 
-Test
-
 ## Commands:
 
 - **ls** - list directory contents
