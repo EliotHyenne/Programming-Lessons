@@ -46,21 +46,6 @@ print(highScore) # Output: 42.7
 print("My high-score is", highScore) # Output: My high-score is 42.7
 ```
 
-## Input
-
-```python
-"""
-Syntax: variable = input(<insert prompt here>)
-
-Description: Get input from the user in console and assign it to a variable
-"""
-
-# Example:
-
-name = input("What is your name? ")
-print("Nice to meet you " + name)
-```
-
 ## If/Elif/Else:
 
 ```python
@@ -113,4 +98,19 @@ else:
    print("a is equal to b")
 
 # NB: You also have >= and <=
+```
+
+## Input
+
+```python
+"""
+Syntax: variable = input(<insert prompt here>)
+
+Description: Get input from the user in console and assign it to a variable
+"""
+
+# Example:
+
+name = input("What is your name? ")
+print("Nice to meet you " + name)
 ```
