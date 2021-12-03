@@ -3,7 +3,7 @@
 ## Commands:
 
 - **ls** - list directory contents
-- **pwd** - print working directory (show - the path to current directory)
+- **pwd** - print working directory (show the path to current directory)
 - **cd** - change directory
 - **mkdir** - make directory
 - **touch** - create empty file
