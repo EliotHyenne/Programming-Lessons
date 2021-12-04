@@ -1,4 +1,4 @@
-# Python 1:
+# Python 1 (variables, print, if, elif, else, input):
 
 ## **Variables**
 

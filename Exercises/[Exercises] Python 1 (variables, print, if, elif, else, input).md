@@ -1,4 +1,4 @@
-# Exercises: Lesson 2 - Python 1 (variables, print, input, if, elif, else)
+# [Exercises] Python 1 (variables, print, if, elif, else, input)
 
 ## **1.1 K-Mart food**
 
