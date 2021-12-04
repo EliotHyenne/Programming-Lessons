@@ -1,6 +1,6 @@
 # Terminal:
 
-## Commands:
+## **Commands**:
 
 - **ls** - list directory contents
 - **pwd** - print working directory (show the path to current directory)
@@ -12,7 +12,7 @@
 - **file** - determine file type
 - **cp** - copy
 
-## Using terminal on Windows:
+## **Using terminal on Windows:**
 
 - WSL
 - Cygwin

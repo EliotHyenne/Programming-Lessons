@@ -1,10 +1,10 @@
 # Python 1:
 
-## Variables
+## **Variables**
 
 ```python
 """
-Syntax: 
+Syntax:
 
     variableName = <value>
 
@@ -26,11 +26,11 @@ myName = "Shun"
 todayIsRaining = True
 ```
 
-## Print
+## **Print**
 
 ```python
 """
-Syntax: 
+Syntax:
 
     print(<insert something here>)
 
@@ -50,7 +50,7 @@ print(highScore) # Output: 42.7
 print("My high-score is", highScore) # Output: My high-score is 42.7
 ```
 
-## If/Elif/Else:
+## **If/Elif/Else:**
 
 ```python
 """
@@ -104,11 +104,11 @@ else:
 # NB: You also have >= and <=
 ```
 
-## Input
+## **Input**
 
 ```python
 """
-Syntax: 
+Syntax:
 
     variable = input(<insert prompt here>)
 
