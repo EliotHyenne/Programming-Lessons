@@ -4,7 +4,7 @@
 
 - **ls** - list directory contents
 - **pwd** - print working directory (show the path to current directory)
-- **cd** - change directory
+- **cd** - change directory (移動する)
 - **mkdir** - make directory
 - **touch** - create empty file
 - **rm** - remove
