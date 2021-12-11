@@ -11,6 +11,7 @@
 - **cat** - concatenate
 - **file** - determine file type
 - **cp** - copy
+- **python3 <filename>** - Run a python program
 
 ## **Using terminal on Windows:**
 
